@@ -1,0 +1,13 @@
+# Standard language/tool ignores
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.env
+*.pyc
+__pycache__/
+.target/
+*.o
+*.so
+*.dll
