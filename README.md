@@ -1,14 +1,13 @@
 # cyberpunk-web-daw
 
-**Status: Archive Candidate**
+**Status: recommended for archive.**
 
-This repository was created empty and contains no code, description, or strategic alignment with Even The Odds Foundry core (Kerna-Ledger / VERA / deterministic compliance / quantum boundary).
+This repository has no product surface (no source, no CI, no description).
+Strategic audio work lives in [`aethersound`](https://github.com/jabrahns-source/aethersound)
+(deterministic oscillator + UE5 MetaSounds bridge).
 
-Per continuous repo health automation (2026-08-02):
-- No tree content prior to this commit
-- No LICENSE, CI, tests, or formal surface
-- Not in prioritized core set (Q-Reg, kerna-ledger*, vera-*, phi-*, GridPulse, aethersound, psi-alpha-quantum, denali-*)
+Do not populate this repo with a second DAW. Archive it from GitHub Settings
+when convenient so it stops appearing in founder diligence scans as an empty
+public repo.
 
-**Recommendation:** Archive or delete. Do not invest further cycles unless a concrete DAW / audio product intent is re-established and linked to AetherSound deterministic principles.
-
-Even The Odds Foundry — Jacarri Sanders
+See `ARCHIVE.md`.
